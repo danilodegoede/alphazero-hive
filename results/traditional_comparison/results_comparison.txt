@@ -1,0 +1,19 @@
+4h - Untrained: 72 - 28
+4h - Random: 64 - 36
+4h - NN: 34 - 66
+4h - MCTS: 27 - 100
+4h - Minimax: 8 - 92
+
+Untrained - Random: 42 - 58
+Untrained - NN: 14 - 86
+Untrained - MCTS: 6 - 94
+Untrained - MM: 2 - 98
+
+Random - NN: 23 - 77
+Random - MCTS: 8 - 92
+Random - MM: 3 - 97
+
+NN - NCTS: 38 - 62
+NN - MM: 21 - 79
+
+MCTS - MM: 32 - 68

@@ -1,0 +1,11 @@
+{
+    "lr": 0.001,
+    "dropout": 0.3,
+    "epochs": 10,
+    "batch_size": 64,
+    "cuda": true,
+    "num_channels": 256,
+    "data_representation_method": 4,
+    "num_layers": 4,
+    "results": "xperiment_results"
+}

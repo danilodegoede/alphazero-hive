@@ -1,0 +1,4 @@
+/home/danilo/Documents/thesis/code/hive_engine/c/build/CMakeFiles/rebuild_cache.dir
+/home/danilo/Documents/thesis/code/hive_engine/c/build/CMakeFiles/edit_cache.dir
+/home/danilo/Documents/thesis/code/hive_engine/c/build/CMakeFiles/hive_run.dir
+/home/danilo/Documents/thesis/code/hive_engine/c/build/CMakeFiles/hive.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -std=gnu99 -O3 -march=native -fopenmp -shared -Wl,-soname,libhive.so -o libhive.so CMakeFiles/hive.dir/board.c.o CMakeFiles/hive.dir/list.c.o CMakeFiles/hive.dir/moves.c.o CMakeFiles/hive.dir/node.c.o CMakeFiles/hive.dir/tt.c.o CMakeFiles/hive.dir/utils.c.o CMakeFiles/hive.dir/mm/mm.c.o CMakeFiles/hive.dir/mm/evaluation.c.o 

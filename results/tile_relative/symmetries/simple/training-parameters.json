@@ -1,0 +1,18 @@
+{
+    "numIters": 20,
+    "numEps": 25,
+    "tempThreshold": 15,
+    "updateThreshold": 0.5,
+    "maxlenOfQueue": 200000,
+    "numMCTSSims": 25,
+    "arenaCompare": 40,
+    "cpuct": 0.8,
+    "checkpoint": "./temp/",
+    "load_model": false,
+    "load_folder_file": [
+        "./temp/",
+        "best.pth.tar"
+    ],
+    "numItersForTrainExamplesHistory": 20,
+    "results": "xperiment_results/1_relative_original"
+}
